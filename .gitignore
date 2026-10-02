@@ -1,0 +1,16 @@
+# Checkpoints et artefacts d'entraînement
+*.pth
+*.pt
+*.pkl
+
+# Données volumineuses
+
+# Environnements Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+uv.lock
+
+# macOS
+.DS_Store
